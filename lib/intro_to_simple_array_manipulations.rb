@@ -8,5 +8,5 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-    Antartica = array.pop
+    = array.pop
 end
